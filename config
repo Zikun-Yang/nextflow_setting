@@ -1,0 +1,4 @@
+singularity {
+  enabled = true
+  cacheDir = "/home/Public/share/singularity/"
+}
